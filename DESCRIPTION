@@ -1,0 +1,14 @@
+Package: transpyr
+Title: Transferring variables between Python and R
+Version: 0.0.0.9000
+Authors@R: person("Michael", "Koohafkan", email = "michael.koohafkan@gmail.com", role = c("aut", "cre"))
+Description: Provides helper functions for mapping Python variable types 
+    to R classes.
+Depends: R (>= 3.4.1)
+Imports: expyr
+License: GPL (>=3)
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/mkoohafkan/transpyr
+BugReports: https://github.com/mkoohafkan/transpyr/issues
+RoxygenNote: 6.0.1
